@@ -1,0 +1,13 @@
+language: c
+
+sudo: false
+
+addons:
+    apt:
+        packages:
+            - libx11-dev
+            - libxft-dev
+            - libxext-dev
+
+script:
+    - PREFIX=$HOME make clean install

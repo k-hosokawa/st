@@ -1,4 +1,5 @@
-st - simple terminal
+[![Build Status](https://travis-ci.com/k-hosokawa/st.svg?branch=master)](https://travis-ci.com/k-hosokawa/st)
+# st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
 
